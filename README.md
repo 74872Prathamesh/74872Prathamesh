@@ -8,7 +8,7 @@
 - 💬 Ask me about **Spring-Boot, Ms.NET, React**
 - 📫 How to reach me **prathamlokare@gmail.com**
 - ⚡ Active fact **I am deeply committed to completing tasks with diligence and excellence.**
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omkar-yelam-67b174205" height="30" width="40" />
+<img align="right" alt="test_img" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin/prathamesh-lokare-6ba298213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin/prathamesh-lokare-6ba298213/" height="30" width="40" /></a>
