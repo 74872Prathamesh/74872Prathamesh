@@ -1,6 +1,6 @@
 Welcome to my Profile 🙋.
 ![logo]
-(https://github.com/74872Prathamesh/74872Prathamesh/blob/main/github%20profile%20Banner.png)
+https://github.com/74872Prathamesh/74872Prathamesh/blob/main/github%20profile%20Banner.png
 <h1 align="center">Hi 👋, I'm Prathamesh Kundlik Lokare</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
 
