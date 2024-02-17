@@ -6,6 +6,7 @@ Welcome to my Profile 🙋🏻‍♂️
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=74872prathamesh&label=Profile%20views&color=0e75b6&style=flat" alt="74872prathamesh" /> </p>
 <img align="right" alt="test_img" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+
 - 🔭 I’m currently working on **MedicareHub**
 
 - 🌱 I’m currently learning **Spring-Boot, MS.Net And DSA**
@@ -15,7 +16,7 @@ Welcome to my Profile 🙋🏻‍♂️
 - 📫 How to reach me **prathamlokare@gmail.com**
 
 - ⚡ Active fact **I am deeply committed to completing tasks with diligence and excellence.**
-<img align="right" alt="test_img" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin/prathamesh-lokare-6ba298213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin/prathamesh-lokare-6ba298213/" height="30" width="40" /></a>
